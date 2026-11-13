@@ -68,7 +68,3 @@ public class Peminjaman extends BaseEntity {
     }
 }
 
-//    public String label() {
-//        return nama + " (" + nik + ")";
-//    }
-//}
